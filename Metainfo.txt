@@ -1,0 +1,16 @@
+Name of Quantlet: FRM-Taiwan
+
+Published in: ??
+
+Description: This study revises the Financial Risk Meter (FRM) to assess systemic risk in Taiwan's key electronic and financial sectors, using machine learning for enhanced recession prediction and risk analysis.
+
+Submitted: 02 Dec 2023
+
+Keywords: 
+- FRM (Financial Risk Meter)
+- Lasso Quantile Regression
+- Systemic Risk
+- Recession
+- Financial Network
+
+Author: Huei-Wen Teng, Siang-Li Jheng, Jhih-Yi Chen, Chun-Ya Tang, Hsin-Yu Tsai, Wolfgang Karl Härdle
