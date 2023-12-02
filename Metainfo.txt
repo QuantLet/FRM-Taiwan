@@ -1,6 +1,6 @@
 Name of Quantlet: FRM-Taiwan
 
-Published in: ??
+Published in: OWTRS conference
 
 Description: This study revises the Financial Risk Meter (FRM) to assess systemic risk in Taiwan's key electronic and financial sectors, using machine learning for enhanced recession prediction and risk analysis.
 
