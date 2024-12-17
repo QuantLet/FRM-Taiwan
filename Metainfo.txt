@@ -12,5 +12,6 @@ Keywords:
 - Systemic Risk
 - Recession
 - Financial Network
+- Taiwan Market
 
 Author: Siang-Li Jheng, Huei-Wen Teng, Wolfgang Karl Härdle
