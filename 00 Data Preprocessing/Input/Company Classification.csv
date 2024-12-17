@@ -1,0 +1,1163 @@
+Code,Sector,Name
+1101,Basic Materials,台泥         
+1102,Basic Materials,亞泥         
+1103,Basic Materials,嘉泥         
+1104,Basic Materials,環泥         
+1108,Basic Materials,幸福         
+1109,Basic Materials,信大         
+1110,Basic Materials,東泥         
+1201,Consumer Defensive,味全         
+1203,Consumer Defensive,味王         
+1210,Consumer Defensive,大成         
+1213,Consumer Defensive,大飲         
+1215,Consumer Defensive,卜蜂         
+1216,Consumer Defensive,統一         
+1217,Consumer Defensive,愛之味       
+1218,Consumer Defensive,泰山         
+1219,Consumer Defensive,福壽         
+1220,Consumer Defensive,台榮         
+1225,Consumer Defensive,福懋油       
+1227,Consumer Defensive,佳格         
+1229,Industrials,聯華         
+1231,Consumer Defensive,聯華食       
+1232,Consumer Defensive,大統益       
+1233,Consumer Defensive,天仁         
+1234,Consumer Defensive,黑松         
+1235,Consumer Defensive,興泰         
+1236,Consumer Defensive,宏亞         
+1256,Consumer Defensive,鮮活果汁-KY  
+1301,Basic Materials,台塑         
+1303,Basic Materials,南亞         
+1304,Basic Materials,台聚         
+1305,Basic Materials,華夏         
+1307,Consumer Cyclical,三芳         
+1308,Basic Materials,亞聚         
+1309,Basic Materials,台達化       
+1310,Basic Materials,台苯         
+1312,Basic Materials,國喬         
+1313,Basic Materials,聯成         
+1314,Basic Materials,中石化       
+1315,Consumer Cyclical,達新         
+1316,Real Estate,上曜         
+1319,Consumer Cyclical,東陽         
+1321,Basic Materials,大洋         
+1323,Consumer Cyclical,永裕         
+1324,Consumer Cyclical,地球         
+1325,Consumer Cyclical,_大         
+1326,Basic Materials,台化         
+1337,Basic Materials,再生-KY      
+1338,Consumer Cyclical,廣華-KY      
+1339,Consumer Cyclical,昭輝         
+1340,Consumer Cyclical,勝悅-KY      
+1341,Consumer Cyclical,富林-KY      
+1342,Consumer Cyclical,八貫         
+1402,Consumer Cyclical,遠東新       
+1409,Consumer Cyclical,新纖         
+1410,Consumer Cyclical,南染         
+1413,Consumer Cyclical,宏洲         
+1414,Consumer Cyclical,東和         
+1416,Electronic,廣豐         
+1417,Consumer Cyclical,嘉裕         
+1418,Consumer Cyclical,東華         
+1419,Consumer Cyclical,新紡         
+1423,Consumer Cyclical,利華         
+1432,Consumer Cyclical,大魯閣       
+1434,Consumer Cyclical,福懋         
+1435,Industrials,中福         
+1436,Real Estate,華友聯       
+1437,Electronic,勤益控       
+1438,Real Estate,三地開發     
+1439,Consumer Cyclical,雋揚         
+1440,Consumer Cyclical,南紡         
+1441,Consumer Cyclical,大東         
+1442,Real Estate,名軒         
+1443,Consumer Cyclical,立益物流     
+1444,Consumer Cyclical,力麗         
+1445,Consumer Cyclical,大宇         
+1446,Consumer Cyclical,宏和         
+1447,Consumer Cyclical,力鵬         
+1449,Consumer Cyclical,佳和         
+1451,Consumer Cyclical,年興         
+1452,Consumer Cyclical,宏益         
+1453,Consumer Cyclical,大將         
+1454,Consumer Cyclical,台富         
+1455,Consumer Cyclical,集盛         
+1456,Real Estate,怡華         
+1457,Consumer Cyclical,宜進         
+1459,Consumer Cyclical,聯發         
+1460,Consumer Cyclical,宏遠         
+1463,Consumer Cyclical,強盛         
+1464,Consumer Cyclical,得力         
+1465,Consumer Cyclical,偉全         
+1466,Consumer Cyclical,聚隆         
+1467,Consumer Cyclical,南緯         
+1468,Consumer Cyclical,昶和         
+1470,Consumer Cyclical,大統新創     
+1471,Electronic,首利         
+1472,Consumer Cyclical,三洋實業     
+1473,Consumer Cyclical,台南         
+1474,Consumer Cyclical,弘裕         
+1475,Consumer Cyclical,業旺         
+1476,Consumer Cyclical,儒鴻         
+1477,Consumer Cyclical,聚陽         
+1503,Industrials,士電         
+1504,Industrials,東元         
+1506,Consumer Cyclical,正道         
+1512,Consumer Cyclical,瑞利         
+1513,Industrials,中興電       
+1514,Industrials,亞力         
+1515,Industrials,力山         
+1516,Energy,川飛         
+1517,Industrials,利奇         
+1519,Industrials,華城         
+1521,Consumer Cyclical,大億         
+1522,Consumer Cyclical,堤維西       
+1524,Consumer Cyclical,耿鼎         
+1525,Consumer Cyclical,江申         
+1526,Consumer Cyclical,日馳         
+1527,Industrials,鑽全         
+1528,Industrials,恩德         
+1529,Industrials,樂事綠能     
+1530,Industrials,亞崴         
+1531,Industrials,高林股       
+1532,Industrials,勤美         
+1533,Consumer Cyclical,車王電       
+1535,Industrials,中宇         
+1536,Consumer Cyclical,和大         
+1537,Industrials,廣隆         
+1538,Industrials,正峰         
+1539,Industrials,巨庭         
+1540,Industrials,喬福         
+1541,Industrials,錩泰         
+1558,Consumer Cyclical,伸興         
+1560,Industrials,中砂         
+1568,Consumer Cyclical,倉佑         
+1582,Electronic,信錦         
+1583,Industrials,程泰         
+1587,Consumer Cyclical,吉茂         
+1589,Industrials,永冠-KY      
+1590,Industrials,亞德客-KY    
+1597,Industrials,直得         
+1598,Consumer Cyclical,岱宇         
+1603,Electronic,華電         
+1604,Consumer Cyclical,聲寶         
+1605,Industrials,華新         
+1608,Industrials,華榮         
+1609,Industrials,大亞         
+1611,Consumer Cyclical,中電         
+1612,Industrials,宏泰         
+1614,Consumer Cyclical,三洋電       
+1615,Industrials,大山         
+1616,Industrials,億泰         
+1617,Electronic,榮星         
+1618,Electronic,合機         
+1626,Consumer Cyclical,艾美特-KY    
+1701,Healthcare,中化         
+1702,Consumer Defensive,南僑         
+1707,Healthcare,葡萄王       
+1708,Basic Materials,東鹼         
+1709,Basic Materials,和益         
+1710,Basic Materials,東聯         
+1711,Basic Materials,永光         
+1712,Basic Materials,興農         
+1713,Basic Materials,國化         
+1714,Basic Materials,和桐         
+1717,Basic Materials,長興         
+1718,Basic Materials,中纖         
+1720,Healthcare,生達         
+1721,Basic Materials,三晃         
+1722,Basic Materials,台肥         
+1723,Basic Materials,中碳         
+1725,Basic Materials,元禎         
+1726,Basic Materials,永記         
+1727,Basic Materials,中華化       
+1730,Consumer Defensive,花仙子       
+1731,Healthcare,美吾華       
+1732,Consumer Defensive,毛寶         
+1733,Healthcare,五鼎         
+1734,Healthcare,杏輝         
+1735,Basic Materials,日勝化       
+1736,Consumer Cyclical,喬山         
+1737,Consumer Defensive,臺鹽         
+1752,Healthcare,南光         
+1760,Healthcare,寶齡富錦     
+1762,Healthcare,中化生       
+1773,Basic Materials,勝一         
+1776,Basic Materials,展宇         
+1783,Healthcare,和康生       
+1786,Healthcare,科妍         
+1789,Healthcare,神隆         
+1795,Healthcare,美時         
+1802,Basic Materials,台玻         
+1805,Industrials,寶徠         
+1806,Industrials,冠軍         
+1808,Real Estate,潤隆         
+1809,Industrials,中釉         
+1810,Consumer Cyclical,和成         
+1817,Consumer Defensive,凱撒衛       
+1903,Consumer Defensive,士紙         
+1904,Basic Materials,正隆         
+1905,Basic Materials,華紙         
+1906,Basic Materials,寶隆         
+1907,Basic Materials,永豐餘       
+1909,Basic Materials,榮成         
+2002,Basic Materials,中鋼         
+2006,Basic Materials,東和鋼鐵     
+2007,Basic Materials,燁興         
+2008,Basic Materials,高興昌       
+2009,Basic Materials,第一銅       
+2010,Basic Materials,春源         
+2012,Basic Materials,春雨         
+2013,Basic Materials,中鋼構       
+2014,Basic Materials,中鴻         
+2015,Basic Materials,豐興         
+2017,Basic Materials,官田鋼       
+2020,Basic Materials,美亞         
+2022,Industrials,聚亨         
+2023,Basic Materials,燁輝         
+2024,Basic Materials,志聯         
+2025,Basic Materials,千興         
+2027,Basic Materials,大成鋼       
+2028,Basic Materials,威致         
+2029,Basic Materials,盛餘         
+2030,Basic Materials,彰源         
+2031,Basic Materials,新光鋼       
+2032,Basic Materials,新鋼         
+2033,Basic Materials,佳大         
+2034,Basic Materials,允強         
+2038,Basic Materials,海光         
+2049,Industrials,上銀         
+2059,Consumer Cyclical,川湖         
+2062,Industrials,橋椿         
+2069,Basic Materials,運錩         
+2101,Consumer Cyclical,南港         
+2102,Consumer Cyclical,泰豐         
+2103,Basic Materials,台橡         
+2104,Basic Materials,國際中橡     
+2105,Consumer Cyclical,正新         
+2106,Consumer Cyclical,建大         
+2107,Basic Materials,厚生         
+2108,Basic Materials,南帝         
+2109,Consumer Cyclical,華豐         
+2114,Consumer Cyclical,鑫永銓       
+2115,Consumer Cyclical,六暉-KY      
+2201,Consumer Cyclical,裕隆         
+2204,Consumer Cyclical,中華         
+2206,Consumer Cyclical,三陽工業     
+2207,Consumer Cyclical,和泰車       
+2208,Industrials,台船         
+2211,Industrials,長榮鋼       
+2227,Consumer Cyclical,裕日車       
+2228,Consumer Cyclical,劍麟         
+2231,Consumer Cyclical,為升         
+2233,Industrials,宇隆         
+2236,Industrials,百達-KY      
+2239,Consumer Cyclical,英利-KY      
+2241,Consumer Cyclical,艾姆勒       
+2243,Consumer Cyclical,宏旭-KY      
+2247,Consumer Cyclical,汎德永業     
+2250,Industrials,IKKA-KY      
+2301,Electronic,光寶科       
+2302,Electronic,麗正         
+2303,Electronic,聯電         
+2305,Electronic,全友         
+2308,Electronic,台達電       
+2312,Electronic,金寶         
+2313,Electronic,華通         
+2314,Electronic,台揚         
+2316,Electronic,楠梓電       
+2317,Electronic,鴻海         
+2321,Electronic,東訊         
+2323,Electronic,中環         
+2324,Electronic,仁寶         
+2327,Electronic,國巨         
+2328,Electronic,廣宇         
+2329,Electronic,華泰         
+2330,Electronic,台積電       
+2331,Electronic,精英         
+2332,Electronic,友訊         
+2337,Electronic,旺宏         
+2338,Electronic,光罩         
+2340,Electronic,台亞         
+2342,Electronic,茂矽         
+2344,Electronic,華邦電       
+2345,Electronic,智邦         
+2347,Electronic,聯強         
+2348,Real Estate,海悅         
+2349,Electronic,錸德         
+2351,Electronic,順德         
+2352,Electronic,佳世達       
+2353,Electronic,宏_         
+2354,Electronic,鴻準         
+2355,Electronic,敬鵬         
+2356,Electronic,英業達       
+2357,Electronic,華碩         
+2358,Basic Materials,廷鑫         
+2359,Electronic,所羅門       
+2360,Electronic,致茂         
+2362,Electronic,藍天         
+2363,Electronic,矽統         
+2364,Electronic,倫飛         
+2365,Electronic,昆盈         
+2367,Electronic,燿華         
+2368,Electronic,金像電       
+2369,Electronic,菱生         
+2371,Industrials,大同         
+2373,Industrials,震旦行       
+2374,Electronic,佳能         
+2375,Electronic,凱美         
+2376,Electronic,技嘉         
+2377,Electronic,微星         
+2379,Electronic,瑞昱         
+2380,Electronic,虹光         
+2382,Electronic,廣達         
+2383,Electronic,台光電       
+2385,Electronic,群光         
+2387,Electronic,精元         
+2388,Electronic,威盛         
+2390,Industrials,云辰         
+2392,Electronic,正崴         
+2393,Electronic,億光         
+2395,Electronic,研華         
+2397,Electronic,友通         
+2399,Electronic,映泰         
+2401,Electronic,凌陽         
+2402,Electronic,毅嘉         
+2404,Industrials,漢唐         
+2405,Electronic,輔信         
+2406,Electronic,國碩         
+2408,Electronic,南亞科       
+2409,Electronic,友達         
+2412,Communication Services,中華電       
+2413,Electronic,環科         
+2414,Electronic,精技         
+2415,Industrials,錩新         
+2417,Electronic,圓剛         
+2419,Electronic,仲琦         
+2420,Industrials,新巨         
+2421,Industrials,建準         
+2423,Electronic,固緯         
+2424,Electronic,隴華         
+2425,Electronic,承啟         
+2426,Electronic,鼎元         
+2427,Industrials,三商電       
+2428,Electronic,興勤         
+2429,Electronic,銘旺科       
+2430,Consumer Cyclical,燦坤         
+2431,Electronic,聯昌         
+2433,Industrials,互盛電       
+2434,Electronic,統懋         
+2436,Electronic,偉詮電       
+2438,Industrials,翔耀         
+2439,Electronic,美律         
+2440,Industrials,太空梭       
+2441,Electronic,超豐         
+2442,Consumer Cyclical,新美齊       
+2443,Electronic,昶虹         
+2444,Electronic,兆勁         
+2449,Electronic,京元電子     
+2450,Electronic,神腦         
+2451,Electronic,創見         
+2453,Electronic,凌群         
+2454,Electronic,聯發科       
+2455,Electronic,全新         
+2457,Industrials,飛宏         
+2458,Electronic,義隆         
+2459,Electronic,敦吉         
+2460,Electronic,建通         
+2461,Consumer Cyclical,光群雷       
+2462,Electronic,良得電       
+2464,Industrials,盟立         
+2465,Electronic,麗臺         
+2466,Electronic,冠西電       
+2467,Industrials,志聖         
+2468,Electronic,華經         
+2471,Electronic,資通         
+2472,Electronic,立隆電       
+2474,Industrials,可成         
+2476,Industrials,鉅祥         
+2477,Electronic,美隆電       
+2478,Electronic,大毅         
+2480,Electronic,敦陽科       
+2481,Electronic,強茂         
+2482,Industrials,連宇         
+2483,Industrials,百容         
+2484,Electronic,希華         
+2485,Electronic,兆赫         
+2486,Electronic,一詮         
+2488,Electronic,漢平         
+2489,Industrials,瑞軒         
+2491,Consumer Cyclical,吉祥全       
+2492,Electronic,華新科       
+2493,Electronic,揚博         
+2495,Electronic,普安         
+2496,Consumer Defensive,卓越         
+2497,Consumer Cyclical,怡利電       
+2498,Electronic,宏達電       
+2501,Real Estate,國建         
+2504,Basic Materials,國產         
+2505,Real Estate,國揚         
+2506,Real Estate,太設         
+2509,Real Estate,全坤建       
+2511,Real Estate,太子         
+2514,Real Estate,龍邦         
+2515,Industrials,中工         
+2516,Industrials,新建         
+2520,Real Estate,冠德         
+2524,Real Estate,京城         
+2527,Real Estate,宏璟         
+2528,Real Estate,皇普         
+2530,Real Estate,華建         
+2534,Real Estate,宏盛         
+2535,Industrials,達欣工       
+2536,Real Estate,宏普         
+2537,Real Estate,聯上發       
+2538,Real Estate,基泰         
+2539,Real Estate,櫻花建       
+2540,Real Estate,愛山林       
+2542,Real Estate,興富發       
+2543,Industrials,皇昌         
+2545,Real Estate,皇翔         
+2546,Industrials,根基         
+2547,Real Estate,日勝生       
+2548,Real Estate,華固         
+2597,Industrials,潤弘         
+2601,Industrials,益航         
+2603,Industrials,長榮         
+2605,Industrials,新興         
+2606,Industrials,裕民         
+2607,Industrials,榮運         
+2608,Industrials,嘉里大榮     
+2609,Industrials,陽明         
+2610,Industrials,華航         
+2611,Industrials,志信         
+2612,Industrials,中航         
+2613,Industrials,中櫃         
+2614,Industrials,東森         
+2615,Industrials,萬海         
+2616,Consumer Cyclical,山隆         
+2617,Industrials,台航         
+2618,Industrials,長榮航       
+2630,Industrials,亞航         
+2633,Industrials,台灣高鐵     
+2634,Industrials,漢翔         
+2636,Industrials,台驊投控     
+2637,Industrials,慧洋-KY      
+2642,Industrials,宅配通       
+2645,Industrials,長榮航太     
+2701,Real Estate,萬企         
+2702,Consumer Cyclical,華園         
+2704,Consumer Cyclical,國賓         
+2705,Consumer Cyclical,六福         
+2706,Consumer Cyclical,第一店       
+2707,Consumer Cyclical,晶華         
+2712,Consumer Cyclical,遠雄來       
+2722,Consumer Cyclical,夏都         
+2723,Consumer Cyclical,美食-KY      
+2727,Consumer Cyclical,王品         
+2731,Consumer Cyclical,雄獅         
+2739,Consumer Cyclical,寒舍         
+2748,Consumer Cyclical,雲品         
+2753,Consumer Cyclical,八方雲集     
+2801,Financial,彰銀         
+2809,Financial,京城銀       
+2812,Financial,台中銀       
+2816,Financial,旺旺保       
+2820,Financial,華票         
+2832,Financial,台產         
+2834,Financial,臺企銀       
+2836,Financial,高雄銀       
+2838,Financial,聯邦銀       
+2845,Financial,遠東銀       
+2849,Financial,安泰銀       
+2850,Financial,新產         
+2851,Financial,中再保       
+2852,Financial,第一保       
+2855,Financial,統一證       
+2867,Financial,三商壽       
+2880,Financial,華南金       
+2881,Financial,富邦金       
+2882,Financial,國泰金       
+2883,Financial,開發金       
+2884,Financial,玉山金       
+2885,Financial,元大金       
+2886,Financial,兆豐金       
+2887,Financial,台新金       
+2888,Financial,新光金       
+2889,Financial,國票金       
+2890,Financial,永豐金       
+2891,Financial,中信金       
+2892,Financial,第一金       
+2897,Financial,王道銀行     
+2901,Consumer Cyclical,欣欣         
+2903,Consumer Cyclical,遠百         
+2904,Energy,匯僑         
+2905,Financial,三商         
+2906,Consumer Cyclical,高林         
+2908,Consumer Cyclical,特力         
+2910,Consumer Cyclical,統領         
+2911,Consumer Cyclical,麗嬰房       
+2912,Consumer Defensive,統一超       
+2913,Consumer Defensive,農林         
+2915,Consumer Cyclical,潤泰全       
+2923,Real Estate,鼎固-KY      
+2929,Consumer Cyclical,淘帝-KY      
+2939,Industrials,凱羿-KY      
+2945,Consumer Defensive,三商家購     
+3002,Industrials,歐格         
+3003,Industrials,健和興       
+3004,Industrials,豐達科       
+3005,Electronic,神基         
+3006,Electronic,晶豪科       
+3008,Electronic,大立光       
+3010,Electronic,華立         
+3011,Electronic,今皓         
+3013,Electronic,晟銘電       
+3014,Electronic,聯陽         
+3015,Industrials,全漢         
+3016,Electronic,嘉晶         
+3017,Electronic,奇鋐         
+3018,Industrials,隆銘綠能     
+3019,Electronic,亞光         
+3021,Electronic,鴻名         
+3022,Electronic,威強電       
+3023,Electronic,信邦         
+3024,Electronic,憶聲         
+3025,Electronic,星通         
+3026,Electronic,禾伸堂       
+3027,Industrials,盛達         
+3028,Electronic,增你強       
+3029,Electronic,零壹         
+3030,Electronic,德律         
+3031,Electronic,佰鴻         
+3032,Electronic,偉訓         
+3033,Electronic,威健         
+3034,Electronic,聯詠         
+3035,Electronic,智原         
+3036,Electronic,文曄         
+3037,Electronic,欣興         
+3038,Electronic,全台         
+3040,Electronic,遠見         
+3041,Electronic,揚智         
+3042,Electronic,晶技         
+3043,Industrials,科風         
+3044,Electronic,健鼎         
+3045,Communication Services,台灣大       
+3046,Electronic,建_         
+3047,Electronic,訊舟         
+3048,Electronic,益登         
+3049,Electronic,精金         
+3050,Electronic,鈺德         
+3051,Electronic,力特         
+3052,Industrials,夆典         
+3054,Healthcare,立萬利       
+3055,Electronic,蔚華科       
+3056,Real Estate,富華新       
+3057,Electronic,喬鼎         
+3058,Electronic,立德         
+3059,Electronic,華晶科       
+3060,Electronic,銘異         
+3062,Electronic,建漢         
+3090,Electronic,日電貿       
+3092,Industrials,鴻碩         
+3094,Electronic,聯傑         
+3130,Industrials,一零四       
+3138,Electronic,耀登         
+3149,Electronic,正達         
+3164,Healthcare,景岳         
+3167,Industrials,大量         
+3189,Electronic,景碩         
+3209,Electronic,全科         
+3229,Electronic,晟鈦         
+3231,Electronic,緯創         
+3257,Electronic,虹冠電       
+3266,Real Estate,昇陽         
+3296,Electronic,勝德         
+3305,Electronic,昇貿         
+3308,Industrials,聯德         
+3311,Electronic,閎暉         
+3312,Electronic,弘憶股       
+3321,Electronic,同泰         
+3338,Electronic,泰碩         
+3346,Electronic,麗清         
+3356,Industrials,奇偶         
+3376,Industrials,新日興       
+3380,Electronic,明泰         
+3406,Electronic,玉晶光       
+3413,Electronic,京鼎         
+3416,Electronic,融程電       
+3419,Electronic,譁裕         
+3432,Industrials,台端         
+3437,Electronic,榮創         
+3443,Electronic,創意         
+3447,Electronic,展達         
+3450,Electronic,聯鈞         
+3454,Industrials,晶睿         
+3481,Electronic,群創         
+3494,Electronic,誠研         
+3501,Industrials,維熹         
+3504,Industrials,揚明光       
+3515,Electronic,華擎         
+3518,Industrials,柏騰         
+3528,Electronic,安馳         
+3530,Electronic,晶相光       
+3532,Electronic,台勝科       
+3533,Electronic,嘉澤         
+3535,Electronic,晶彩科       
+3543,Electronic,州巧         
+3545,Electronic,敦泰         
+3550,Industrials,聯穎         
+3557,Consumer Cyclical,嘉威         
+3563,Electronic,牧德         
+3576,Electronic,聯合再生     
+3583,Electronic,辛耘         
+3588,Electronic,通嘉         
+3591,Electronic,艾笛森       
+3592,Electronic,瑞鼎         
+3593,Electronic,力銘         
+3596,Electronic,智易         
+3605,Electronic,宏致         
+3607,Consumer Cyclical,谷崧         
+3617,Industrials,碩天         
+3622,Electronic,洋華         
+3645,Electronic,達邁         
+3652,Electronic,精聯         
+3653,Electronic,健策         
+3661,Electronic,世芯-KY      
+3665,Industrials,貿聯-KY      
+3669,Electronic,圓展         
+3673,Electronic,TPK-KY       
+3679,Electronic,新至陞       
+3686,Electronic,達能         
+3694,Electronic,海華         
+3701,Electronic,大眾控       
+3702,Electronic,大聯大       
+3703,Industrials,欣陸         
+3704,Electronic,合勤控       
+3705,Healthcare,永信         
+3706,Electronic,神達         
+3708,Basic Materials,上緯投控     
+3711,Electronic,日月光投控   
+3712,Electronic,永崴投控     
+3714,Electronic,富采         
+3715,Electronic,定穎投控     
+4104,Healthcare,佳醫         
+4106,Healthcare,雃博         
+4108,Healthcare,懷特         
+4119,Healthcare,旭富         
+4133,Healthcare,亞諾法       
+4137,Consumer Defensive,麗豐-KY      
+4142,Healthcare,國光生       
+4148,Basic Materials,全宇生技-KY  
+4155,Healthcare,訊映         
+4164,Healthcare,承業醫       
+4190,Consumer Defensive,佐登-KY      
+4306,Basic Materials,炎洲         
+4414,Consumer Cyclical,如興         
+4426,Consumer Cyclical,利勤         
+4438,Consumer Cyclical,廣越         
+4439,Consumer Cyclical,冠星-KY      
+4440,Consumer Cyclical,宜新實業     
+4526,Industrials,東台         
+4532,Industrials,瑞智         
+4536,Consumer Cyclical,拓凱         
+4540,Industrials,全球傳動     
+4545,Industrials,銘鈺         
+4551,Consumer Cyclical,智伸科       
+4552,Industrials,力達-KY      
+4555,Electronic,氣立         
+4557,Consumer Cyclical,永新-KY      
+4560,Industrials,強信-KY      
+4562,Industrials,穎漢         
+4564,Consumer Cyclical,元翎         
+4566,Industrials,時碩工業     
+4569,Industrials,六方科-KY    
+4571,Industrials,鈞興-KY      
+4572,Industrials,駐龍         
+4576,Industrials,大銀微系統   
+4581,Consumer Cyclical,光隆精密-KY  
+4583,Industrials,台灣精銳     
+4720,Basic Materials,德淵         
+4722,Basic Materials,國精化       
+4736,Healthcare,泰博         
+4737,Healthcare,華廣         
+4739,Basic Materials,康普         
+4746,Healthcare,台耀         
+4755,Basic Materials,三福化       
+4763,Basic Materials,材料-KY      
+4764,Basic Materials,雙鍵         
+4766,Basic Materials,南寶         
+4770,Basic Materials,上品         
+4807,Consumer Cyclical,日成-KY      
+4904,Communication Services,遠傳         
+4906,Electronic,正文         
+4912,Industrials,聯德控股-KY  
+4915,Electronic,致伸         
+4916,Electronic,事欣科       
+4919,Electronic,新唐         
+4927,Electronic,泰鼎-KY      
+4930,Consumer Cyclical,燦星網       
+4934,Electronic,太極         
+4935,Electronic,茂林-KY      
+4938,Electronic,和碩         
+4942,Electronic,嘉彰         
+4943,Electronic,康控-KY      
+4952,Electronic,凌通         
+4956,Electronic,光鋐         
+4958,Electronic,臻鼎-KY      
+4960,Electronic,誠美材       
+4961,Electronic,天鈺         
+4967,Electronic,十銓         
+4968,Electronic,立積         
+4976,Electronic,佳凌         
+4977,Electronic,眾達-KY      
+4989,Basic Materials,榮科         
+4994,Communication Services,傳奇         
+4999,Industrials,鑫禾         
+5007,Industrials,三星         
+5203,Electronic,訊連         
+5215,Electronic,科嘉-KY      
+5222,Electronic,全訊         
+5225,Electronic,東科-KY      
+5234,Basic Materials,達興材料     
+5243,Electronic,乙盛-KY      
+5244,Electronic,弘凱         
+5258,Industrials,虹堡         
+5269,Electronic,祥碩         
+5283,Electronic,禾聯碩       
+5284,Electronic,jpp-KY       
+5285,Electronic,界霖         
+5288,Industrials,豐祥-KY      
+5292,Industrials,華懋         
+5306,Consumer Cyclical,桂盟         
+5388,Electronic,中磊         
+5434,Electronic,崇越         
+5469,Electronic,瀚宇博       
+5471,Electronic,松翰         
+5484,Industrials,慧友         
+5515,Industrials,建國         
+5519,Industrials,隆大         
+5521,Industrials,工信         
+5522,Real Estate,遠雄         
+5525,Real Estate,順天         
+5531,Real Estate,鄉林         
+5533,Real Estate,皇鼎         
+5534,Real Estate,長虹         
+5538,Basic Materials,東明-KY      
+5546,Basic Materials,永固-KY      
+5607,Industrials,遠雄港       
+5608,Industrials,四維航       
+5706,Consumer Cyclical,鳳凰         
+5871,Financial,中租-KY      
+5876,Financial,上海商銀     
+5880,Financial,合庫金       
+5906,Consumer Cyclical,台南-KY      
+5907,Consumer Cyclical,大洋-KY      
+6005,Financial,群益證       
+6024,Financial,群益期       
+6108,Electronic,競國         
+6112,Electronic,邁達特       
+6115,Industrials,鎰勝         
+6116,Electronic,彩晶         
+6117,Electronic,迎廣         
+6120,Electronic,達運         
+6128,Electronic,上福         
+6133,Industrials,金橋         
+6136,Communication Services,富爾特       
+6139,Industrials,亞翔         
+6141,Electronic,柏承         
+6142,Electronic,友勁         
+6152,Electronic,百一         
+6153,Electronic,嘉聯益       
+6155,Electronic,鈞寶         
+6164,Industrials,華興         
+6165,Electronic,浪凡         
+6166,Electronic,凌華         
+6168,Electronic,宏齊         
+6176,Electronic,瑞儀         
+6177,Real Estate,達麗         
+6183,Industrials,關貿         
+6184,Communication Services,大豐電       
+6189,Electronic,豐藝         
+6191,Electronic,精成科       
+6192,Electronic,巨路         
+6196,Electronic,帆宣         
+6197,Electronic,佳必琪       
+6201,Consumer Cyclical,亞弘電       
+6202,Electronic,盛群         
+6205,Electronic,詮欣         
+6206,Electronic,飛捷         
+6209,Electronic,今國光       
+6213,Electronic,聯茂         
+6214,Electronic,精誠         
+6215,Industrials,和椿         
+6216,Electronic,居易         
+6224,Electronic,聚鼎         
+6225,Electronic,天瀚         
+6226,Electronic,光鼎         
+6230,Electronic,尼得科超眾   
+6235,Industrials,華孚         
+6239,Electronic,力成         
+6243,Electronic,迅杰         
+6257,Electronic,矽格         
+6269,Electronic,台郡         
+6271,Electronic,同欣電       
+6277,Electronic,宏正         
+6278,Electronic,台表科       
+6281,Consumer Cyclical,全國電       
+6282,Industrials,康舒         
+6283,Electronic,淳安         
+6285,Electronic,啟_         
+6288,Electronic,聯嘉         
+6405,Electronic,悅城         
+6409,Industrials,旭隼         
+6412,Industrials,群電         
+6414,Electronic,樺漢         
+6415,Electronic,矽力*-KY     
+6416,Electronic,瑞祺電通     
+6426,Electronic,統新         
+6431,Electronic,光麗-KY      
+6438,Industrials,迅得         
+6442,Electronic,光聖         
+6443,Electronic,元晶         
+6449,Electronic,鈺邦         
+6451,Electronic,訊芯-KY      
+6456,Electronic,GIS-KY       
+6464,Communication Services,台數科       
+6472,Healthcare,保瑞         
+6477,Electronic,安集         
+6491,Healthcare,晶碩         
+6504,Consumer Defensive,南六         
+6505,Energy,台塑化       
+6515,Electronic,穎崴         
+6525,Electronic,捷敏-KY      
+6526,Electronic,達發         
+6531,Electronic,愛普*        
+6533,Electronic,晶心科       
+6541,Healthcare,泰福-KY      
+6550,Healthcare,北極星藥業-KY
+6552,Electronic,易華電       
+6558,Industrials,興能高       
+6573,Electronic,虹揚-KY      
+6579,Electronic,研揚         
+6581,Industrials,鋼聯         
+6582,Basic Materials,申豐         
+6585,Basic Materials,鼎基         
+6591,Electronic,動力-KY      
+6592,Financial,和潤企業     
+6598,Healthcare,ABC-KY       
+6605,Consumer Cyclical,帝寶         
+6606,Electronic,建德工業     
+6625,Communication Services,必應         
+6641,Industrials,基士德-KY    
+6655,Basic Materials,科定         
+6657,Healthcare,華安         
+6658,Electronic,聯策         
+6666,Consumer Defensive,羅麗芬-KY    
+6668,Electronic,中揚光       
+6669,Electronic,緯穎         
+6670,Consumer Cyclical,復盛應用     
+6671,Consumer Defensive,三能-KY      
+6672,Electronic,騰輝電子-KY  
+6674,Electronic,鋐寶科技     
+6689,Electronic,伊雲谷       
+6691,Industrials,洋基工程     
+6695,Electronic,芯鼎         
+6698,Electronic,旭暉應材     
+6706,Industrials,惠特         
+6715,Electronic,嘉基         
+6719,Electronic,力智         
+6742,Electronic,澤米         
+6743,Electronic,安普新       
+6753,Industrials,龍德造船     
+6754,Industrials,匯僑設計     
+6756,Electronic,威鋒電子     
+6768,Consumer Cyclical,志強-KY      
+6770,Electronic,力積電       
+6776,Electronic,展_國際     
+6781,Industrials,AES-KY       
+6782,Healthcare,視陽         
+6789,Electronic,采鈺         
+6790,Consumer Defensive,永豐實       
+6792,Electronic,詠業         
+6796,Healthcare,晉弘         
+6799,Electronic,來頡         
+6805,Electronic,富世達       
+6806,Utilities,森崴能源     
+6807,Consumer Cyclical,峰源-KY      
+6830,Electronic,汎銓         
+6834,Electronic,天二科技     
+6835,Industrials,圓裕         
+6861,Healthcare,睿生光電     
+6863,Electronic,永道-KY      
+6901,Financial,鑽石投資     
+6916,Electronic,華凌         
+6933,Electronic,AMAX-KY      
+6937,Electronic,天虹         
+8011,Electronic,台通         
+8016,Electronic,矽創         
+8021,Industrials,尖點         
+8028,Electronic,昇陽半導體   
+8033,Consumer Cyclical,雷虎         
+8039,Electronic,台虹         
+8046,Electronic,南電         
+8070,Electronic,長華*        
+8072,Industrials,陞泰         
+8081,Electronic,致新         
+8101,Electronic,華冠         
+8103,Electronic,瀚荃         
+8104,Electronic,錸寶         
+8105,Electronic,凌巨         
+8110,Electronic,華東         
+8112,Electronic,至上         
+8114,Industrials,振樺電       
+8131,Electronic,福懋科       
+8150,Electronic,南茂         
+8163,Electronic,達方         
+8201,Electronic,無敵         
+8210,Electronic,勤誠         
+8213,Electronic,志超         
+8215,Electronic,明基材       
+8222,Industrials,寶一         
+8249,Industrials,菱光         
+8261,Electronic,富鼎         
+8271,Electronic,宇瞻         
+8341,Industrials,日友         
+8367,Industrials,建新國際     
+8374,Industrials,羅昇         
+8404,Consumer Cyclical,百和興業-KY  
+8411,Consumer Cyclical,福貞-KY      
+8422,Industrials,可寧衛       
+8429,Consumer Cyclical,金麗-KY      
+8438,Basic Materials,昶昕         
+8442,Consumer Cyclical,威宏-KY      
+8443,Consumer Cyclical,阿瘦         
+8454,Consumer Cyclical,富邦媒       
+8462,Consumer Cyclical,柏文         
+8463,Basic Materials,潤泰材       
+8464,Consumer Cyclical,億豐         
+8466,Industrials,美吉吉-KY    
+8467,Consumer Cyclical,波力-KY      
+8473,Industrials,山林水       
+8476,Industrials,台境         
+8478,Consumer Cyclical,東哥遊艇     
+8481,Industrials,政伸         
+8482,Consumer Cyclical,商億-KY      
+8488,Consumer Cyclical,吉源-KY      
+8499,Electronic,鼎炫-KY      
+8926,Industrials,台汽電       
+8940,Consumer Cyclical,新天地       
+8996,Industrials,高力         
+9103,Healthcare,美德醫療-DR  
+910322,Consumer Defensive,康師傅-DR    
+9105,Electronic,泰金寶-DR    
+910861,Industrials,神州-DR      
+9110,Consumer Cyclical,越南控-DR    
+911608,Industrials,明輝-DR      
+911622,Basic Materials,泰聚亨-DR    
+911868,Industrials,同方友友-DR  
+912000,Electronic,晨訊科-DR    
+9136,Electronic,巨騰-DR      
+9802,Consumer Cyclical,鈺齊-KY      
+9902,Real Estate,台火         
+9904,Consumer Cyclical,寶成         
+9905,Consumer Cyclical,大華         
+9906,Industrials,欣巴巴       
+9907,Consumer Cyclical,統一實       
+9908,Utilities,大台北       
+9910,Consumer Cyclical,豐泰         
+9911,Consumer Cyclical,櫻花         
+9912,Electronic,偉聯         
+9914,Consumer Cyclical,美利達       
+9917,Industrials,中保科       
+9918,Utilities,欣天然       
+9919,Consumer Defensive,康那香       
+9921,Consumer Cyclical,巨大         
+9924,Industrials,福興         
+9925,Industrials,新保         
+9926,Utilities,新海         
+9927,Basic Materials,泰銘         
+9928,Communication Services,中視         
+9929,Industrials,秋雨         
+9930,Basic Materials,中聯資源     
+9931,Utilities,欣高         
+9933,Industrials,中鼎         
+9934,Industrials,成霖         
+9935,Consumer Cyclical,慶豐富       
+9937,Consumer Cyclical,全國         
+9938,Consumer Cyclical,百和         
+9939,Consumer Cyclical,宏全         
+9940,Real Estate,信義         
+9941,Financial,裕融         
+9942,Consumer Cyclical,茂順         
+9943,Consumer Cyclical,好樂迪       
+9944,Consumer Cyclical,新麗         
+9945,Industrials,潤泰新       
+9946,Real Estate,三發地產     
+9955,Industrials,佳龍         
+9958,Industrials,世紀鋼       
+3682,Communication Services,亞太電
+3536,Electronic,誠創
+8480,Financial,泰昇-KY
+3383,Electronic,新世紀
+6289,Electronic,華上
+6251,Industrials,定穎
+2841,Real Estate,台開
+6172,Electronic,互億
+2936,Healthcare,客思達-KY
+4141,Healthcare,龍燈-KY
+1507,Industrials,永大
+9188,Consumer Cyclical,精熙-DR
+8427,Electronic,基勝-KY
+1592,Healthcare,英瑞-KY
+2456,Electronic,奇力新
+2823,Financial,中壽
+912398,Industrials,友佳-DR
+1724,Basic Materials,台硝
+911616,Consumer Defensive,杜康-DR
+6131,Electronic,鈞泰
+6452,Healthcare,康友-KY
+4725,Basic Materials,信昌化
+5264,Electronic,鎧勝-KY
+2448,Electronic,晶電
+3698,Electronic,隆達
+5305,Electronic,敦南
+2499,Electronic,東貝
+4144,Healthcare,康聯-KY
+8497,Communication Services,格威傳媒
+910482,Consumer Cyclical,聖馬丁-DR
+1902,Basic Materials,台紙
+5259,Electronic,奕智博
+9157,Energy,陽光能源-DR
+1262,Electronic,綠悅-KY
+911619,Industrials,耀傑-DR
+3579,Electronic,尚志
+910708,Healthcare,_大健-DR
+2475,Electronic,華映
+3519,Electronic,綠能
+1704,Basic Materials,榮化
+3561,Electronic,昇陽光電
+3514,Electronic,昱晶
+6145,Electronic,勁永
+2856,Financial,元富證券
+6422,Electronic,君耀-KY
+4984,Electronic,科納-KY
+1469,Basic Materials,理隆纖維
+2311,Electronic,日月光
+2325,Electronic,矽品
+1729,Industrials,必翔實業
+910801,Healthcare,金衛-DR
+1613,Electronic,台一
+1715,Basic Materials,萬洲化學
+3315,Electronic,宣昶
+3559,Electronic,全智科
+2437,Electronic,旺詮
+9106,Consumer Cyclical,新焦點-DR
+6702,Industrials,興航
+3474,Electronic,華亞科
+911611,Consumer Defensive,中泰山-DR
+911626,Healthcare,MSH-DR
+4733,Energy,上緯
+3584,Electronic,介面
+3573,Electronic,穎台
+3598,Electronic,奕力
+6286,Electronic,立錡
+2847,Financial,大眾銀行
+911612,Utilities,滬安電力
+913889,Consumer Defensive,大成糖
+2361,Electronic,	鴻友科技
+2833,Financial,台灣人壽
+2384,Electronic,勝華科技
+911609,Industrials,揚子江
+910069,Electronic,新曄科技
+910948,Financial,融達
+5280,Electronic,F-敦泰
+911201,Electronic,僑威集團
+3061,Electronic,璨圓
+2837,Financial,萬泰銀行
+3638,Electronic,F-IML
+8078,Financial,華寶
+3697,Electronic,F-晨星
+911610,Utilities,聯合環境
+911602,Electronic,華豐泰國
+9151,Consumer Defensive,旺旺
+2315,Electronic,神達電腦
+910579,Electronic,歐聖集團
+8008,Electronic,建興電
+3599,Electronic,旺能
+3080,Electronic,威力盟
+8199,Electronic,廣鎵
+2473,Electronic,思源
+911606,Consumer Defensive,超級集團
+9104,Electronic,萬宇科
+916665,Electronic,爾必達
+6119,Electronic,大傳
+5854,Financial,合庫
+3367,Electronic,英華達
+2854,Financial,寶來證
+3534,Electronic,雷凌
+2463,Electronic,研揚
+6012,Financial,金鼎證
+9102,Electronic,東亞科
+1716,Healthcare,永信藥品
+2403,Electronic,友尚
+2341,Electronic,英群
+3614,Electronic,誠致
+6255,Electronic,奈普
+1523,Electronic,臺灣開億
+2391,Electronic,合勤科技
+9922,Electronic,優美
+2350,Electronic,環電
+2526,Industrials,大陸工程
+3063,Electronic,飛信
+2452,Electronic,乾坤
+3009,Electronic,奇美
+2446,Electronic,全懋
+2381,Energy,華宇光能
+2396,Electronic,精碟科技
+1606,Consumer Cyclical,歌林
+2411,Electronic,飛瑞
+2494,Electronic,突破
+2432,Electronic,倚天資訊
+9101,Electronic,福雷電
+3271,Electronic,其樂達
+1311,Electronic,福聚
+9915,Industrials,億豐
+2447,Electronic,鼎新
+2418,Consumer Cyclical,雅新實業
+3020,Electronic,奇普仕
+1520,Industrials,復盛
+2336,Electronic,致伸
+2479,Industrials,和立
+1107,Basic Materials,建台水泥
+3053,Financial,鼎營
+1601,Industrials,台灣日光燈
+6280,Electronic,崇貿
+2469,Electronic,力信
+2333,Electronic,碧悠電子
+3142,Industrials,遠茂
+2831,Financial,中華商銀
+2827,Financial,中聯信託
+3007,Electronic,綠點
+1207,Consumer Defensive,嘉新食化
+9801,Financial,中國力霸
+6004,Financial,元京證
+2410,Industrials,鼎大興業
+2523,Industrials,德寶營造
+3214,Electronic,元砷
+2807,Financial,新竹商銀
+2343,Electronic,精業
+2811,Financial,台東企銀
+2394,Electronic,普立爾
+2487,Financial,友立資
+3012,Electronic,廣輝
+2825,Financial,中央產保
+1807,Industrials,羅馬磁磚
+2335,Electronic,清三電子
+2378,Electronic,鴻運電子
+1408,Consumer Cyclical,中興紡織
+2326,Electronic,亞瑟科技
+2407,Electronic,陞技電腦
+2822,Financial,農民銀行
+2366,Electronic,亞旭電腦
+2533,Electronic,昱成科技
